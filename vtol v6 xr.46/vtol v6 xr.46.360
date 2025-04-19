@@ -1,0 +1,10 @@
+{
+    "horizontalFrames": 20,
+    "horizontalStartingIndex": 10,
+    "horizontalWrap": true,
+    "name": "vtol v6 xr.46",
+    "type": "KeyShotXR",
+    "verticalFrames": 9,
+    "verticalStartingIndex": 4,
+    "verticalWrap": false
+}
